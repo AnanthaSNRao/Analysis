@@ -1,4 +1,4 @@
-# sentimental
+# sentimental Analysis
 
 Simple sentiment analysis with Python
 
