@@ -31,9 +31,16 @@ analyzetext() analyses the data and assigns a polarity  sentiment score as posit
 ## how to run code 
 install nltk, plotly, tqdm, pandas
 
+
+run the following commands to install:
+
+
 pip3 install plotly
 pip3 install nltk
 pip3 install tqdm
 pip3 install pandas
 
+
+run the code
+python3 ananlyse.py
 
