@@ -24,7 +24,8 @@ analyzetext() analyses the data and assigns a polarity  sentiment score as posit
 
 
 ## Results
-![image](https://user-images.githubusercontent.com/90940098/146636350-34a1d815-1870-4926-b989-fcbaa3063c6d.png)
+![image](https://user-images.githubusercontent.com/90940098/146661073-dac4cf18-e962-4516-b5de-527557ff45a3.png)
+
 ![image](https://user-images.githubusercontent.com/90940098/146636361-c1d79dff-3fcc-4c5d-b50a-eecb7ee14519.png)
 
 
